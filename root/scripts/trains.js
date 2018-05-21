@@ -1,2 +1,3 @@
-var trains = 5
-trains * 5
+var trainsOperational = 8;
+trainsOperational = trainsOperational + 4;
+console.log("There are " + trainsOperational + " running trains.");
